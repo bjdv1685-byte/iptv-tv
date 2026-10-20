@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bjdv1685-byte/iptv-tv@main/vod/0821.json",
+      "name": "高天流云·综合推荐"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bjdv1685-byte/iptv-tv@main/vod/0825.json",
+      "name": "高天流云·PG"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bjdv1685-byte/iptv-tv@main/vod/0826.json",
+      "name": "高天流云·备用"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bjdv1685-byte/iptv-tv@main/vod/0827.json",
+      "name": "高天流云·精简"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bjdv1685-byte/iptv-tv@main/vod/js.json",
+      "name": "高天流云·JS全量"
+    }
+  ]
+}
